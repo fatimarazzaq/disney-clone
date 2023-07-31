@@ -55,3 +55,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 2. Redux
 3. FireBase
 4. Styled-Components
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
